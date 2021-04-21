@@ -1,4 +1,4 @@
-com/falabella/compra/runners/RunnerResumenCompra.java
- com.falabella.compra.runners.RunnerResumenCompra
 com/falabella/compra/stepsdefinitions/ResumenCompraStepsDefinitions.java
  com.falabella.compra.stepsdefinitions.ResumenCompraStepsDefinitions
+com/falabella/compra/runners/RunnerResumenCompra.java
+ com.falabella.compra.runners.RunnerResumenCompra
