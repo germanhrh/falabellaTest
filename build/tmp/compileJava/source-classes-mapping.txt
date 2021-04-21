@@ -1,0 +1,34 @@
+com/falabella/compra/tasks/OpenUp.java
+ com.falabella.compra.tasks.OpenUp
+com/falabella/compra/userinterface/GooglePage.java
+ com.falabella.compra.userinterface.GooglePage
+com/falabella/compra/userinterface/IngresarPage.java
+ com.falabella.compra.userinterface.IngresarPage
+com/falabella/compra/interactions/Esperar.java
+ com.falabella.compra.interactions.Esperar
+com/falabella/compra/tasks/Ingresar.java
+ com.falabella.compra.tasks.Ingresar
+com/falabella/compra/tasks/Buscar.java
+ com.falabella.compra.tasks.Buscar
+com/falabella/compra/userinterface/BuscarPage.java
+ com.falabella.compra.userinterface.BuscarPage
+com/falabella/compra/utils/Constantes.java
+ com.falabella.compra.utils.Constantes
+com/falabella/compra/userinterface/AdicionarACompraPage.java
+ com.falabella.compra.userinterface.AdicionarACompraPage
+com/falabella/compra/userinterface/ResumenCompraPage.java
+ com.falabella.compra.userinterface.ResumenCompraPage
+com/falabella/compra/utils/ObtenerDigitosEnCadena.java
+ com.falabella.compra.utils.ObtenerDigitosEnCadena
+com/falabella/compra/tasks/AdicionarACompra.java
+ com.falabella.compra.tasks.AdicionarACompra
+com/falabella/compra/models/DatosResumen.java
+ com.falabella.compra.models.DatosResumen
+com/falabella/compra/tasks/ResumenCompra.java
+ com.falabella.compra.tasks.ResumenCompra
+com/falabella/compra/questions/TotalResumenOK.java
+ com.falabella.compra.questions.TotalResumenOK
+com/falabella/compra/userinterface/CarritoAgregarPage.java
+ com.falabella.compra.userinterface.CarritoAgregarPage
+com/falabella/compra/tasks/CarritoAgregar.java
+ com.falabella.compra.tasks.CarritoAgregar
