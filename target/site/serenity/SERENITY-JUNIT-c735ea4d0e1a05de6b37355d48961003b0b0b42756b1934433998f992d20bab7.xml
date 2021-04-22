@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Resumen Compra falabella" skipped="0" tests="1" time="42.77" timestamp="2021-04-21 03:16:58"><testcase name="Resumen Compra falabella"><failure message="&#10;Expected: &quot;756800&quot;&#10;     but: was &quot;746800&quot;" type="java.lang.AssertionError">
-Expected: "756800"
-     but: was "746800"</failure><system-err>
-Expected: "756800"
-     but: was "746800"&#13;
-com.falabella.compra.tasks.ResumenCompra.performAs(ResumenCompra.java:32)&#13;
-com.falabella.compra.stepsdefinitions.ResumenCompraStepsDefinitions.validoLaCorrectaGeneracionDelResumenDeLaCompra(ResumenCompraStepsDefinitions.java:47)&#13;
-cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Resumen Compra falabella" skipped="0" tests="1" time="40.83" timestamp="2021-04-22 02:53:26"><testcase name="Resumen Compra falabella"/></testsuite>
